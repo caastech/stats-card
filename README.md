@@ -13,13 +13,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Preview card](https://user-images.githubusercontent.com/57645180/150408323-05608ea0-17b5-4b92-95f6-8d7d4c68b86f.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-card-preview-using-vanilla-css-3UySQjEz_)
+- Live Site URL: [Add live site URL here](https://caastech.github.io/stats-card/)
 
 ## My process
 
@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@caastech](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@bleacksubject](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@caastech](https://www.frontendmentor.io/profile/caastech)
+- Twitter - [@bleacksubject](https://www.twitter.com/bleacksubject)
